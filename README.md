@@ -1,4 +1,4 @@
-# CS-260 Data Structure and Algorithms Projects
+# CS-260 Data Structure and Algorithms Projects in C++
 
 C++
 
