@@ -1,4 +1,6 @@
-# CS-260-Final
+# CS-260 Data Structure and Algorithms Projects
+
+C++
 
 Overview: Throughout the course, you will complete programming assignments that requiring the appropriate application of data structures and algorithms as
 well as implementing industry best practices. The programing assignments in Modules Three - Six are all candidates for the artifact submissions for your Final
